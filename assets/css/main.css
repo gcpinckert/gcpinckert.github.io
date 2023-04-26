@@ -1456,6 +1456,9 @@ input, select, textarea {
 						.row.gtr-200.gtr-uniform > * {
 							padding-top: 2.5em;
 						}
+      .button {
+        margin: 0 0 2.25em 0;
+      }
 
 		}
 
